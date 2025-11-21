@@ -29,7 +29,7 @@ O layout foi adaptado com **media queries** para oferecer uma boa experiência e
    git clone https://github.com/seu-usuario/seu-repositorio.git
    
 2. Abra o arquivo index.html no seu navegador. Ou acesse diretamente a versão hospedada no GitHub Pages:
-➡️ Seu link do GitHub Pages aqui
+➡️ https://martins-eduardo.github.io/calculadora-de-notas-unip/
 
 📢 Créditos e Inspiração
 Este projeto foi inspirado e motivado pelo trabalho do Pedro HRQE. Confira o site dele aqui:
