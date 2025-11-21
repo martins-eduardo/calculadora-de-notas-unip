@@ -175,6 +175,7 @@
     align-items: center;          /* centro vertical */
     padding: 20px;                /* espaçamento nas bordas */
     box-sizing: border-box;
+    overflow: auto;
   }
   
   .modal-conteudo {
