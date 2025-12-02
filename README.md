@@ -33,11 +33,19 @@ A aplicação é totalmente estática, leve e compatível com qualquer navegador
 
 ## 📦 Como Executar
 
-## Basta abrir o arquivo: 
+### Basta abrir o arquivo: 
 ``` bash
 index.html
 ```
 
 ## 🤝 Contribuição
 
-# Sinta-se à vontade para sugerir melhorias.
+#### Sinta-se à vontade para sugerir melhorias.
+
+Fluxo sugerido:
+```bash
+git fork
+git checkout -b minha-feature
+git commit -m "feat: melhoria na calculadora"
+git push origin minha-feature
+```
