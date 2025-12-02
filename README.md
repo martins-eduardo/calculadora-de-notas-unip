@@ -40,7 +40,7 @@ index.html
 
 ## 🤝 Contribuição
 
-#### Sinta-se à vontade para sugerir melhorias.
+ Sinta-se à vontade para sugerir melhorias.
 
 Fluxo sugerido:
 ```bash
