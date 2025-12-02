@@ -1,36 +1,43 @@
-# Calculadora de Notas
+# Calculadora de Notas – UNIP
 
-Este é um projeto de **calculadora de notas** para ajudar estudantes e professores a verificar rapidamente a média das provas, saber se foi aprovado, se precisa fazer exame ou se está reprovado.
+Aplicação criada para facilitar o cálculo das notas necessárias nas avaliações da UNIP.  
+O objetivo é permitir que o aluno informe suas notas já obtidas e receba automaticamente o valor mínimo necessário para aprovação no semestre.
 
-## 🎯 Funcionalidades
+---
 
-- Cálculo automático da média com base nas duas notas.
-- Indicação clara de situação: **Aprovado**, **Necessário Exame** ou **Reprovado**.
-- Cálculo da nota necessária para o exame, se aplicável.
-- Efeito de **confete** quando aprovado.
-- Alerta piscante para casos de exame.
-- Modal de **ajuda** com instruções.
-- Design **responsivo** para se adaptar a celulares, tablets e desktops.
+## 🎓 Objetivo do Projeto
 
-## 💻 Tecnologias
+A calculadora foi desenvolvida para ajudar estudantes da UNIP a organizarem seus resultados acadêmicos de forma rápida, simples e precisa.  
+Ela elimina cálculos manuais e reduz erros ao estimar as notas restantes.
+
+---
+
+## 🚀 Tecnologias
 
 - HTML
 - CSS
-- JavaScript puro
+- JavaScript
 
-## 📱 Responsividade
+A aplicação é totalmente estática, leve e compatível com qualquer navegador moderno.
 
-O layout foi adaptado com **media queries** para oferecer uma boa experiência em **qualquer tamanho de tela**, principalmente em **dispositivos móveis**.
+---
 
-## 🚀 Como usar
+## 🧠 Como Usar
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   
-2. Abra o arquivo index.html no seu navegador. Ou acesse diretamente a versão hospedada no GitHub Pages:
-➡️ https://martins-eduardo.github.io/calculadora-de-notas-unip/
+1. Informe as notas já obtidas nas avaliações.
+2. A calculadora processa automaticamente o total.
+3. O sistema exibe quanto falta para atingir a média necessária.
+4. Caso a média mínima já tenha sido alcançada, a interface mostra o status atualizado.
 
-📢 Créditos e Inspiração
-Este projeto foi inspirado e motivado pelo trabalho do Pedro HRQE. Confira o site dele aqui:
-➡️ https://pedrohrqe.github.io/Calculadora_de_notas_UNIP/
+---
+
+## 📦 Como Executar
+
+## Basta abrir o arquivo: 
+``` bash
+index.html
+```
+
+## 🤝 Contribuição
+
+# Sinta-se à vontade para sugerir melhorias.
